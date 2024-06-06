@@ -9,3 +9,5 @@
 ## teste log
 
 ## log historico
+
+* uso do comenado git restore
